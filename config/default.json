@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://mongoadmin:wSgAMTqKe5P5VD5T@cluster0.tc0tv.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "teriteri",
+  "githubClientId": "71e8cec0bdee2c624139",
+  "githubSecret": "e97288b89bf3ecad91d19f3bfdf42be9a1dc186f"
+}
